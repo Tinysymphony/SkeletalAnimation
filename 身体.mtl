@@ -1,0 +1,10 @@
+# Wavefront format material file
+# Created by quick3D 4.0
+#
+# For info, go to http://www.quick3D.com
+
+newmtl bone
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.858824 0.764706
+Ks 0.690196 0.643137 0.643137
+Tf 0.000000 0.000000 0.000000
